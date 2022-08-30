@@ -1,0 +1,12 @@
+Package: CLEXP3EST
+Type: Package
+Title: Calculates the estimators of SSI for common location exponential distribution
+Version: 0.1.0
+Author: Tulika Rudra Gupta
+Maintainer: The package maintainer <tulikastat28893@gmail.com>
+Description: Calculates the estimators of SSI for common location exponential distribution for 3 groups.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: gsl, cubature
+RoxygenNote: 7.2.0
